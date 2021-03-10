@@ -1,0 +1,12 @@
+index chart
+stacked graph
+small multiples
+horizon graph
+stem-and-leaf plot
+flow map
+graduated symbol map
+hierarchies
+adjacency diagram
+sunburst layout
+enclosure diagram 
+arc diagram
