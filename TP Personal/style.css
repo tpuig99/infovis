@@ -1,0 +1,70 @@
+/** INTRODUCTION **/
+@font-face {
+    font-family: Autumn;
+    src: url("resources/Autumn_Chant.otf") format("opentype");
+}
+
+.introduction {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    color: white;
+
+}
+.row{
+    margin-top: 3em;
+}
+.section-title {
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+}
+.section-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #3b434a;
+    position: relative;
+    z-index: 2;
+}
+
+.section-title span {
+    position: absolute;
+    top: 30px;
+    color: #BFB6A1;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 52px;
+    text-transform: uppercase;
+    line-height: 0;
+}
+
+.section-title p {
+    margin-bottom: 0;
+    position: relative;
+    z-index: 2;
+}
+
+.titulo{
+    color: #111;
+    display: block;
+    font-size: 2em;
+    padding: 0.5em 0 0.5em 0;
+    position: relative;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.info{
+    font-family: 'Merriweather', serif;
+}
+.info h3{
+    font-size: medium;
+}
+.graphs{
+    background-color: #eadec1;
+}
